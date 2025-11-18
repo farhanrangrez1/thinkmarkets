@@ -310,7 +310,7 @@
                   "/getmedia/c6728d98-f0d7-49a7-a050-973a63b6d230/latest-news.png?width=320\u0026height=168\u0026ext=.png",
                 description:
                   "\u003cp\u003eUS Dollar to keep strengthening into the New Year, dominating over other global currencies amidst crippling inflation.\u003c/p\u003e\r\n",
-                linkUrl: "/en/market-news/",
+                linkUrl: "/en/index.html",
                 linkText: "Find out more",
               },
             },
@@ -579,45 +579,45 @@
                   title: "TRADING PLATFORMS",
                   type: "wide",
                   sectionItems: [
-                      // {
-                      //   title: "Prime Trader Web",
-                      //   description:
-                      //     "Explore the powerful features and tools on our proprietary platform.",
-                      //   linkUrl: "https://web.thinktrader.com/account/login",
-                      //   linkMoreText: "Login",
-                      //   linkMoreUrl: "https://partner.thinkmarkets.com/login",
-                      //   imageUrl:
-                      //     "/getmedia/012cdb34-6069-4603-b3c3-2be344b0f097/Prime Trader.svg?ext=.svg",
-                      //   code: "",
-                      //   selected: false,
-                      //   opensInNewTab: true,
-                      // },
-                      // {
-                      //   title: "MT4",
-                      //   description:
-                      //     "Trade global markets on the industry standard MT4 platform.",
-                      //   linkUrl: "/en/metatrader4/mt4-web/terminal/",
-                      //   linkMoreText: "Login",
-                      //   linkMoreUrl: "",
-                      //   imageUrl:
-                      //     "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
-                      //   code: "",
-                      //   selected: false,
-                      //   opensInNewTab: true,
-                      // },
-                      // {
-                      //   title: "MT5",
-                      //   description:
-                      //     "Access one of the most powerful multi-asset trading platforms.",
-                      //   linkUrl: "/en/metatrader5/mt5-web/terminal/",
-                      //   linkMoreText: "Login",
-                      //   linkMoreUrl: "",
-                      //   imageUrl:
-                      //     "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
-                      //   code: "",
-                      //   selected: false,
-                      //   opensInNewTab: true,
-                      // },
+                    // {
+                    //   title: "Prime Trader Web",
+                    //   description:
+                    //     "Explore the powerful features and tools on our proprietary platform.",
+                    //   linkUrl: "https://web.thinktrader.com/account/login",
+                    //   linkMoreText: "Login",
+                    //   linkMoreUrl: "https://partner.thinkmarkets.com/login",
+                    //   imageUrl:
+                    //     "/getmedia/012cdb34-6069-4603-b3c3-2be344b0f097/Prime Trader.svg?ext=.svg",
+                    //   code: "",
+                    //   selected: false,
+                    //   opensInNewTab: true,
+                    // },
+                    // {
+                    //   title: "MT4",
+                    //   description:
+                    //     "Trade global markets on the industry standard MT4 platform.",
+                    //   linkUrl: "/en/metatrader4/mt4-web/terminal/",
+                    //   linkMoreText: "Login",
+                    //   linkMoreUrl: "",
+                    //   imageUrl:
+                    //     "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
+                    //   code: "",
+                    //   selected: false,
+                    //   opensInNewTab: true,
+                    // },
+                    // {
+                    //   title: "MT5",
+                    //   description:
+                    //     "Access one of the most powerful multi-asset trading platforms.",
+                    //   linkUrl: "/en/metatrader5/mt5-web/terminal/",
+                    //   linkMoreText: "Login",
+                    //   linkMoreUrl: "",
+                    //   imageUrl:
+                    //     "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
+                    //   code: "",
+                    //   selected: false,
+                    //   opensInNewTab: true,
+                    // },
                   ],
                 },
 
@@ -725,8 +725,7 @@
                   "/getmedia/f62440ad-f909-4e95-b069-8d3f5eb5be4d/partnership-article.png?width=320\u0026height=186\u0026ext=.png",
                 description:
                   "Sign up to be PrimeMarkets\u0026rsquo; partner, find the programme that works for you and get compensated.",
-                linkUrl:
-                  "https://partners.thinkmarkets.com/afs/wsignup.form.php",
+                linkUrl: "/en/index.html",
                 linkText: "Learn more",
               },
             },

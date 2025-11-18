@@ -200,7 +200,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/33c499aa-88f7-4ffe-8eb3-33821b942006/Group-6294.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/33c499aa-88f7-4ffe-8eb3-33821b942006/Group-6294.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -213,7 +213,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/b61c3a40-7449-4b11-823c-b8fe40fb27ae/Bar-Graph.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/b61c3a40-7449-4b11-823c-b8fe40fb27ae/Bar-Graph.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -226,7 +226,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/5001b500-992b-408b-b15e-c1f4a40eab1f/Commodities-gas-oil-wheat.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/5001b500-992b-408b-b15e-c1f4a40eab1f/Commodities-gas-oil-wheat.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -239,7 +239,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/9e911f63-f211-48db-a94a-8eb8f25fa300/Crypto-BTC.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/9e911f63-f211-48db-a94a-8eb8f25fa300/Crypto-BTC.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -252,7 +252,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/35fbd5db-40f2-4951-aa4a-f47163c31760/stocks_icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/35fbd5db-40f2-4951-aa4a-f47163c31760/stocks_icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -264,7 +264,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/cc0877ff-1685-47b5-8914-2ae819db76d8/ETFs.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/cc0877ff-1685-47b5-8914-2ae819db76d8/ETFs.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -277,7 +277,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/d22511a1-efbb-4b2f-872d-eed1e980f6ea/Futures.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/d22511a1-efbb-4b2f-872d-eed1e980f6ea/Futures.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -296,7 +296,7 @@
                       linkMoreText: "Classic Leverage",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/e8fffbbe-9966-4035-8371-7005af5c9c9c/contractspecs.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/e8fffbbe-9966-4035-8371-7005af5c9c9c/contractspecs.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -332,7 +332,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/012cdb34-6069-4603-b3c3-2be344b0f097/Prime Trader.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/012cdb34-6069-4603-b3c3-2be344b0f097/Prime Trader.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -345,7 +345,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/46ec23f7-d84f-4bbd-a0c6-492614b2b944/TradingView-logo.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/46ec23f7-d84f-4bbd-a0c6-492614b2b944/TradingView-logo.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -357,7 +357,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -370,7 +370,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/05e9c832-33b5-4c12-8255-64dd91016740/logo-MT4.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -383,7 +383,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/fd10098a-2def-41b0-830e-973292e342e1/traders-gym-web-icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/fd10098a-2def-41b0-830e-973292e342e1/traders-gym-web-icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -402,7 +402,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/80c93802-f0b4-4065-b388-cb5f41a2d3e9/Trading-signals.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/80c93802-f0b4-4065-b388-cb5f41a2d3e9/Trading-signals.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -415,7 +415,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/e420b561-672c-4bc0-b631-fbe974642250/MegaMenu-Primecopy-small-icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/e420b561-672c-4bc0-b631-fbe974642250/MegaMenu-Primecopy-small-icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -479,7 +479,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/2c39415e-39cf-4e5c-9ec4-d6a45e692076/Expert-advisors.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/2c39415e-39cf-4e5c-9ec4-d6a45e692076/Expert-advisors.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -492,7 +492,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/1b06df28-f429-476d-b3d7-635febd49c81/Mega-menu-Company-Refer-a-friend-icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/1b06df28-f429-476d-b3d7-635febd49c81/Mega-menu-Company-Refer-a-friend-icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -505,7 +505,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/ef561501-76cb-4dbe-992b-c204a040ae5e/Institutional-sales-MegaMenu-icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/ef561501-76cb-4dbe-992b-c204a040ae5e/Institutional-sales-MegaMenu-icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -533,7 +533,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/22434ffc-bb2e-4192-b898-ce5239e24acd/Phone-call.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/22434ffc-bb2e-4192-b898-ce5239e24acd/Phone-call.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -546,7 +546,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/73c106b8-ac56-4527-825d-97d635974ddc/Chat-bubbles-conversation.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/73c106b8-ac56-4527-825d-97d635974ddc/Chat-bubbles-conversation.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -559,7 +559,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/e2e5d968-1943-4681-a872-57c942e29c33/Account-management.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/e2e5d968-1943-4681-a872-57c942e29c33/Account-management.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -634,7 +634,7 @@
                       linkMoreUrl:
                         "https://portal.thinkmarkets.com/account/login",
                       imageUrl:
-                        "/getmedia/e2e5d968-1943-4681-a872-57c942e29c33/Account-management.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/e2e5d968-1943-4681-a872-57c942e29c33/Account-management.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: true,
@@ -647,7 +647,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "/en/login/",
                       imageUrl:
-                        "/getmedia/1cd6419c-2a2d-4ab3-9bd5-442ffcd1c864/login-hub-icon.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/1cd6419c-2a2d-4ab3-9bd5-442ffcd1c864/login-hub-icon.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: false,
@@ -666,7 +666,7 @@
                       linkMoreText: "",
                       linkMoreUrl: "",
                       imageUrl:
-                        "/getmedia/2c39415e-39cf-4e5c-9ec4-d6a45e692076/Expert-advisors.svg?ext=.svg",
+                        "https://www.thinkmarkets.com/getmedia/2c39415e-39cf-4e5c-9ec4-d6a45e692076/Expert-advisors.svg?ext=.svg",
                       code: "",
                       selected: false,
                       opensInNewTab: true,
@@ -722,7 +722,7 @@
               article: {
                 title: "Partnerships",
                 imageUrl:
-                  "/getmedia/f62440ad-f909-4e95-b069-8d3f5eb5be4d/partnership-article.png?width=320\u0026height=186\u0026ext=.png",
+                  "https://www.thinkmarkets.com/getmedia/f62440ad-f909-4e95-b069-8d3f5eb5be4d/partnership-article.png?width=320\u0026height=186\u0026ext=.png",
                 description:
                   "Sign up to be PrimeMarkets\u0026rsquo; partner, find the programme that works for you and get compensated.",
                 linkUrl: "/en/index.html",
@@ -755,7 +755,7 @@
                 type: "default",
                 currentCulture: "EN",
                 currentIcon:
-                  "/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
+                  "https://www.thinkmarkets.com/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
                 sections: [
                   {
                     title: "International",
@@ -768,7 +768,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
                         code: "EN",
                         selected: false,
                         opensInNewTab: false,
@@ -786,7 +786,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/bb5de97f-b693-4a68-a12d-e2c672ca3976/Portuguese.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/bb5de97f-b693-4a68-a12d-e2c672ca3976/Portuguese.svg?ext=.svg",
                         code: "PT",
                         selected: false,
                         opensInNewTab: false,
@@ -798,7 +798,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/3f6d0764-8fd6-4f1e-976e-635b45a880b1/Espanol_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/3f6d0764-8fd6-4f1e-976e-635b45a880b1/Espanol_1.svg?ext=.svg",
                         code: "LATAM",
                         selected: false,
                         opensInNewTab: false,
@@ -810,7 +810,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/6592fdca-7714-4bee-9f3c-9035374c73fb/cayman-islands.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/6592fdca-7714-4bee-9f3c-9035374c73fb/cayman-islands.svg?ext=.svg",
                         code: "KY",
                         selected: false,
                         opensInNewTab: false,
@@ -828,7 +828,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/b7aaff9e-a09f-471f-a2ef-09bde76fc0cc/China-CNY_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/b7aaff9e-a09f-471f-a2ef-09bde76fc0cc/China-CNY_1.svg?ext=.svg",
                         code: "CN",
                         selected: false,
                         opensInNewTab: false,
@@ -840,7 +840,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/c7e9592f-0b4f-4f94-9754-b3d627fe725a/vietnam.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/c7e9592f-0b4f-4f94-9754-b3d627fe725a/vietnam.svg?ext=.svg",
                         code: "VN",
                         selected: false,
                         opensInNewTab: false,
@@ -852,7 +852,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/57064ba6-d17c-4514-845f-fc03ce36a012/indonesia_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/57064ba6-d17c-4514-845f-fc03ce36a012/indonesia_1.svg?ext=.svg",
                         code: "ID",
                         selected: false,
                         opensInNewTab: false,
@@ -864,7 +864,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/593ca8ad-3c40-4bd3-9d1d-2cd1799899c3/AU-Australia-AUD_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/593ca8ad-3c40-4bd3-9d1d-2cd1799899c3/AU-Australia-AUD_1.svg?ext=.svg",
                         code: "AU",
                         selected: false,
                         opensInNewTab: false,
@@ -876,7 +876,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/efb45653-702f-4a13-a0fe-b35e0363a24c/TW-Taiwan-NTD.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/efb45653-702f-4a13-a0fe-b35e0363a24c/TW-Taiwan-NTD.svg?ext=.svg",
                         code: "TW",
                         selected: false,
                         opensInNewTab: false,
@@ -888,7 +888,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/1e58d88d-4d1c-43e7-a7d0-44ce91e54364/thailand_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/1e58d88d-4d1c-43e7-a7d0-44ce91e54364/thailand_1.svg?ext=.svg",
                         code: "TH",
                         selected: false,
                         opensInNewTab: false,
@@ -900,7 +900,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/9f02230a-b078-4126-9bf9-b950add0d005/New-Zealand-NZD.png?width=16\u0026height=16\u0026ext=.png",
+                          "https://www.thinkmarkets.com/getmedia/9f02230a-b078-4126-9bf9-b950add0d005/New-Zealand-NZD.png?width=16\u0026height=16\u0026ext=.png",
                         code: "NZ",
                         selected: false,
                         opensInNewTab: false,
@@ -918,7 +918,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/d9abc47a-56fd-4fff-a7b5-993e0e3850eb/UAE.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/d9abc47a-56fd-4fff-a7b5-993e0e3850eb/UAE.svg?ext=.svg",
                         code: "AE",
                         selected: false,
                         opensInNewTab: false,
@@ -930,7 +930,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/f403c928-a841-4236-b92a-c52f0f66bf98/Middle_East.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/f403c928-a841-4236-b92a-c52f0f66bf98/Middle_East.svg?ext=.svg",
                         code: "AR",
                         selected: false,
                         opensInNewTab: false,
@@ -942,7 +942,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/f966df44-bec9-4e70-a191-80b77c36bb87/south-africa_1.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/f966df44-bec9-4e70-a191-80b77c36bb87/south-africa_1.svg?ext=.svg",
                         code: "ZA",
                         selected: false,
                         opensInNewTab: false,
@@ -954,7 +954,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/b15d3acf-3d16-4b23-8bdc-bccf3cfb6ec5/Language-selector-Turkey-TRY-icon.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/b15d3acf-3d16-4b23-8bdc-bccf3cfb6ec5/Language-selector-Turkey-TRY-icon.svg?ext=.svg",
                         code: "TR",
                         selected: false,
                         opensInNewTab: false,
@@ -972,7 +972,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/44e8026e-10c1-4e13-b25f-6f405a238edb/UK-United-Kingdom-GBP.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/44e8026e-10c1-4e13-b25f-6f405a238edb/UK-United-Kingdom-GBP.svg?ext=.svg",
                         code: "UK",
                         selected: false,
                         opensInNewTab: false,
@@ -984,7 +984,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/129c2445-846f-4885-b470-f7b419567e08/SP-Spain.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/129c2445-846f-4885-b470-f7b419567e08/SP-Spain.svg?ext=.svg",
                         code: "ES",
                         selected: false,
                         opensInNewTab: false,
@@ -996,7 +996,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/8bd11d11-0b0d-4843-9368-d514a7fa943d/DE-Germany.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/8bd11d11-0b0d-4843-9368-d514a7fa943d/DE-Germany.svg?ext=.svg",
                         code: "DE",
                         selected: false,
                         opensInNewTab: false,
@@ -1008,7 +1008,7 @@
                         linkMoreText: "",
                         linkMoreUrl: "",
                         imageUrl:
-                          "/getmedia/57684d17-74c7-4b40-9ddc-263f18bd3c78/EU-Euro.svg?ext=.svg",
+                          "https://www.thinkmarkets.com/getmedia/57684d17-74c7-4b40-9ddc-263f18bd3c78/EU-Euro.svg?ext=.svg",
                         code: "EU",
                         selected: false,
                         opensInNewTab: false,
@@ -1025,7 +1025,7 @@
               type: "default",
               currentCulture: "EN",
               currentIcon:
-                "/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
+                "https://www.thinkmarkets.com/getmedia/8c9b6082-99b8-4c9a-ae8d-7fb6490ac171/English_1.svg?ext=.svg",
               sections: [
                 // {
                 //   title: "International",
@@ -1318,10 +1318,8 @@
             },
           },
           logoHref: "/en",
-          imgUrl:
-            "https://theprimewaves.com/wp-content/uploads/2025/09/Group-2-1-scaled-2048x952.png",
-          imgUrlReverse:
-            "https://theprimewaves.com/wp-content/uploads/2025/09/Group-2-1-scaled-2048x952.png",
+          imgUrl: "../../logo.jpg",
+          imgUrlReverse: "../../logo.jpg",
 
           searchPlaceholder: "Search this site.",
         }),
